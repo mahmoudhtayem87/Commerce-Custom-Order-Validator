@@ -1,0 +1,2 @@
+com/liferay/me/internal/commerce/order/CustomCommerceOrderValidator.java
+ com.liferay.me.internal.commerce.order.CustomCommerceOrderValidator
